@@ -45,7 +45,7 @@ As ativiades estão como comentário, para tirar basta retirar os #
 #if imc < 18.5:
 #print("Abaixo do Peso")
 #if imc < 25:
-#	print("Peso ideal")
+#print("Peso ideal")
 #elif imc < 30:
 #print("Sobrepeso")
 #elif imc < 40:
