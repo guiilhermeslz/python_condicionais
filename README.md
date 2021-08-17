@@ -6,11 +6,11 @@ As ativiades estão como comentário, para tirar basta retirar os #
 #num1 = int(input("Digite o primeiro numero:"))
 #num2 =  int (input("Digite o segundo numero:"))
 #if num1 > num2 :
-#	print("O Primero valor e maior que o segundo")
+#print("O Primero valor e maior que o segundo")
 #elif num2 > num1 :
-#	print("O segundo valor e maior que o primeiro")
+#print("O segundo valor e maior que o primeiro")
 #else :
-#	print("Não exite valor maior,os dois são iguais")
+#print("Não exite valor maior,os dois são iguais")
 
 
 
