@@ -19,23 +19,23 @@ As ativiades estão como comentário, para tirar basta retirar os #
 #nota2 =float(input("Digite sua segunda nota:"))
 #media = float(nota1+nota2)/2
 #if media < 5 :
-#	print("Média abaixo de 5.0\nREPORVADO.")
+#print("Média abaixo de 5.0\nREPORVADO.")
 #elif  5 >= media <=6.9 :
-#	print("Média entre 5 e 6.9\nRECUPERAÇÃO")
+#print("Média entre 5 e 6.9\nRECUPERAÇÃO")
 #else :
-#	print("Média superior a 7\nAPROVADO")
+#print("Média superior a 7\nAPROVADO")
 
 
 
 #idade = int (input("Digite a idade do atleta:"))
 #if 9 >= idade <= 14:
-#	print("MIRIM")
+#print("MIRIM")
 #elif idade <= 19:
-#	print("INFANTIL")
+#print("INFANTIL")
 #elif  idade <= 20:
-#	print("SENIOR")
+#print("SENIOR")
 #else :
-#	print("MASTER")
+#print("MASTER")
   
   
 #peso = float(input("Digite seu peso:"))
@@ -43,12 +43,12 @@ As ativiades estão como comentário, para tirar basta retirar os #
 #imc = float (peso/(altura**2))
 #print("imc: {:.2f}".format(imc))
 #if imc < 18.5:
-#	print("Abaixo do Peso")
+#print("Abaixo do Peso")
 #if imc < 25:
 #	print("Peso ideal")
 #elif imc < 30:
-#	print("Sobrepeso")
+#print("Sobrepeso")
 #elif imc < 40:
-#	print("Obesidade")
+#print("Obesidade")
 #elif imc > 40:
-#	print("Obesidade mórbida")
+#print("Obesidade mórbida")
